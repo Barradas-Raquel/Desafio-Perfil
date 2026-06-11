@@ -1,0 +1,5 @@
+# Opinión acerca de Github
+
+Me pareció facil de entender y usar, pero no comprendo del todo si debo cambiar
+el campo de "Update README.md" al guardar los cambios. Y si lo tengo que cambiar, 
+no sé qué le podria escribir en su lugar.
